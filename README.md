@@ -253,6 +253,3 @@ HRIS StaffIvy/
 
 Proyek ini dilisensikan di bawah lisensi **MIT License**. Terbuka untuk keperluan portofolio, referensi belajar, maupun pengembangan lebih lanjut.
 
-<div align="center">
-  <sub>Dibuat dengan ❤️ untuk Portofolio Frontend & Fullstack Web Developer.</sub>
-</div>
